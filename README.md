@@ -1,0 +1,2 @@
+# weibo_comment_pc_tool
+用python开发的微博评论采集软件，支持根据指定帖子链接爬取帖子下方的评论数据。
