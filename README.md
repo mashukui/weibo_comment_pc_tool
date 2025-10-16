@@ -30,7 +30,7 @@
 
 ## 1.5 演示视频
 
-软件运行过程演示视频：[【爬虫软件】微博评论采集工具，根据帖子链接批量爬评论，含二级评论](https://www.bilibili.com/video/BV1iWEkzkEys/)
+软件运行过程演示视频：[【爬虫软件】微博评论采集工具，根据帖子链接批量爬评论，含二级评论](https://mp.weixin.qq.com/s/8tJz-t9Cea16rpGuiMUO_Q)
 
 # 二、主要技术
 ## 2.1 模块分工
