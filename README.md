@@ -139,7 +139,7 @@ pc端cookie获取说明：
 季卡：使用期限3个月，399元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
-付费方式：<img width="1528" height="918" alt="收款码v2" src="https://github.com/user-attachments/assets/ec8e8a5f-9d0c-4edd-8498-324c571cb2c3" />
+付费方式：<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/8a76836f-2b1f-4f93-a75e-14fe631e78d2" />
 
 付费后，加我微信（493882434）自动掉落登录卡密。
 
@@ -151,4 +151,4 @@ pc端cookie获取说明：
 
 # 五、软件获取
 "**爬微博评论软件**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！
-![二维码-公众号放底部](https://github.com/user-attachments/assets/b98aa9f5-aff2-450f-995d-b5df0172da08)
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/d44c1d2e-0521-4e8a-be32-d6d2add29b76" />
