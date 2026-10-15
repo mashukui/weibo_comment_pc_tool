@@ -15,7 +15,7 @@
 
 ## 1.3 结果展示
 爬取结果：（截图中展示的就是全部字段了）
-![采集结果-微博评论数据](https://files.mdnice.com/user/32110/6f6b0afa-50ab-442f-b63a-0a5727b878ad.png)
+![采集结果-微博评论数据](images/wcp_01.png)
 
 ## 1.4 软件说明
 几点重要说明，请详读了解：
@@ -118,16 +118,16 @@ def get_logger(self):
 ## 3.0 填写cookie
 开始采集前，先把自己的cookie值填入cookie.txt文件。
 pc端cookie获取说明：
-![cookie获取方法](https://files.mdnice.com/user/32110/d8d40107-4fb7-4812-b6da-e55ad7f44ac9.png)
+![cookie获取方法](images/wcp_02.png)
 
 然后把复制的cookie值填写到当前文件夹的cookie.txt文件中。
 ## 3.1 软件登录
 用户登录界面：
-![用户登录](https://files.mdnice.com/user/32110/957582ff-f399-43be-a8c3-5fcad1c1417d.png)
+![用户登录](images/wcp_03.png)
 
 ## 3.2 采集wb评论
 根据自己的实际情况，在软件界面填写采集条件，点击开始按钮：
-![界面说明](https://files.mdnice.com/user/32110/17f31e67-978e-4b6c-87be-a469442a898a.png)
+![界面说明](images/wcp_04.png)
 
 完成采集后，在当前文件夹生成对应的csv文件，文件名以时间戳命名，方便查找。
 
